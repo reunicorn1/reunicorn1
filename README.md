@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 <!-- markdownlint-disable-file MD013 -->
 <!-- In order to control the line length so I don't cut sentences half way, I disabled MD013 rule -->
-✧･ﾟ: *✧･ﾟ:* 　[instagram](https://instagram.com/reosama1) ˚✧  [twitter](https://twitter.com/iReOsama1) ˚✧  [behance](https://www.behance.net/reosama/projects/)　 *:･ﾟ✧*:･ﾟ✧
+✧･ﾟ: *✧･ﾟ:* 　[instagram](https://instagram.com/reesdiaries) ˚✧  [twitter](https://twitter.com/iReOsama1) ˚✧  [behance](https://www.behance.net/reosama/projects/)　 *:･ﾟ✧*:･ﾟ✧
 ![1669e57761ccc67fa5e31a09a54764d0.gif](https://i.postimg.cc/vHPkp1dr/1669e57761ccc67fa5e31a09a54764d0.gif)
 
 Software Engineer, Graphic Designer and a Dentist
