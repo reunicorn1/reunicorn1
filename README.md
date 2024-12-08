@@ -17,10 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- markdownlint-disable-file MD013 -->
-<!-- In order to control the line length so I don't cut sentences half way, I disabled MD013 rule -->
-✧･ﾟ: *✧･ﾟ:* 　[instagram](https://instagram.com/reesdiaries) ˚✧  [twitter](https://twitter.com/iReOsama1) ˚✧  [behance](https://www.behance.net/reosama/projects/)　 *:･ﾟ✧*:･ﾟ✧
-![1669e57761ccc67fa5e31a09a54764d0.gif](https://i.postimg.cc/vHPkp1dr/1669e57761ccc67fa5e31a09a54764d0.gif)
+<!-- markdownlint-disable-file MD033 -->
 
+<!-- In order to control the line length so I don't cut sentences half way, I disabled MD013 rule. And again to center the socials I used html inline with md-->
+<p align="center">
+✧･ﾟ: *✧･ﾟ:*  <a href="https://instagram.com/reesdiaries">instagram </a> ˚✧  <a href="https://twitter.com/iReOsama">twitter</a> ˚✧  <a href="https://www.behance.net/reosama/projects/">behance</a> *:･ﾟ✧*:･ﾟ✧
+</p>
+
+![1669e57761ccc67fa5e31a09a54764d0.gif](https://i.postimg.cc/vHPkp1dr/1669e57761ccc67fa5e31a09a54764d0.gif)
 Software Engineer, Graphic Designer and a Dentist
 
 Currently I'm diving into the intersection of technology, creativity and community! I also work as a front-end developer and designer at [Diaminate](https://diaminate.com), where I help figure out interesting ways to explore scalability and solutions to answer business questions through data and AI.
